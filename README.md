@@ -15,9 +15,17 @@ Data Science Projects completed by me for self learning, and hobby purposes.
 - [Object Tracking in video Using Kalman Filter](https://github.com/yazeze2/Object-Tracking-Using-Kalman-Filter) - Object Detection and Tracking using Kalman Filter
 - [911 Call Exploratory Analysis](https://github.com/yazeze2/911-Exploratory-Analysis-Project) - This project is implemented to demonstrate extraction of useful features from different variables
 
+## Computer-vision-Projects
+
+- [Object Tracking in a video using Kalman Filter](https://github.com/yazeze2/Object-Tracking-Using-Kalman-Filter) - Object Detection and Tracking in a video using Kalman Filter
+- [Edge Detection (Feature Detection) using Haar Wavelets](https://github.com/yazeze2/Feature-Detection) -Checkboard Rotational Invariant Feature Detection using Haar Wavelets
+- [Image Restoration](https://github.com/yazeze2/Image-Restoration) - Image Restoration using Constrained Laplacian Filter, Least Square Filter, Inverse Filter, LMMSE/Constrained Weiner Filter, SVD Pseudo Inverse Filter, Norm-Constrained Least-Squares Pseudo-Inverse Filter
+- [Object Detection in an Image](https://github.com/yazeze2/Object-Detection-Connected-Components-) - Counting connected components in an image.
+- [Image Processing through Point and Neighborhood-Operators](https://github.com/yazeze2/Image-Processing-through-Point-and-Neighborhood-Operator) - Image processing through Thresholding, Contrast Streching, Gamma Correction, Histogram Equalization
+
 ## Mini Machine Learning Projects
 
-Repository containing data science projects completed by me for academic, purposes using Python and MATLAB. All the projects listed here are completed without the use of any pre-built machine learning Libraries
+Data science projects completed by me for academic, purposes using Python and MATLAB. All the projects listed here are completed without the use of any pre-built machine learning Libraries
 
 - [Multilayer Perceptron for Handwritten Digit Classification](https://github.com/yazeze2/Multilayer-PTA-for-Handwritten-Digit-Classification-Recognition) - Multilayer perceptron for Handwritten Digit Classification on MNIST dataset
 - [Neural Networks Backpropagation for Siusodial Curve fitting](https://github.com/yazeze2/Curve-Fitting_Backpropagation_python) - In this project the backpropagation algorithm was used to fit a given sinusoidal function
