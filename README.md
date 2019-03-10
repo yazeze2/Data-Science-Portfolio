@@ -15,7 +15,7 @@ Data Science Projects completed by me for self learning, and hobby purposes.
 - [Object Tracking in video Using Kalman Filter](https://github.com/yazeze2/Object-Tracking-Using-Kalman-Filter) - Object Detection and Tracking using Kalman Filter
 - [911 Call Exploratory Analysis](https://github.com/yazeze2/911-Exploratory-Analysis-Project) - This project is implemented to demonstrate extraction of useful features from different variables
 
-## Mini Machine Learning Projects
+## Mini Data Science Projects
 
 Data science projects completed by me for academic, purposes using Python and MATLAB. All the projects listed here are completed without the use of any pre-built machine learning Libraries
 
@@ -24,7 +24,7 @@ Data science projects completed by me for academic, purposes using Python and MA
 - [Support Vector Machines for non-linear data classification](https://github.com/yazeze2/Support-Vector-Machine-SVM-) - The goal of this project was to classify two non-linear classes in which the data points for one class are bounded within a Moon and Mountain  shaped boundaries while the data points for the other class rest outside of these boundaries. 
 
 
-## Computer-vision-Projects
+## Computer-Vision Projects
 
 - [Object Tracking in a video using Kalman Filter](https://github.com/yazeze2/Object-Tracking-Using-Kalman-Filter) - Object Detection and Tracking in a video using Kalman Filter
 - [Edge Detection (Feature Detection) using Haar Wavelets](https://github.com/yazeze2/Feature-Detection) -Checkboard Rotational Invariant Feature Detection using Haar Wavelets
