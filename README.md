@@ -6,7 +6,7 @@ Data Science Projects completed by me for self learning, and hobby purposes.
 
 ## Data Science Projects
 
-- [Deep-Learning for Natural Language Processing](https://github.com/yazeze2/Deep-Learning) - Convolutional Neural Networks (CNN) and Multi-layer perceptron (MLP) Models for twitter sentiment analysis - without using NLTK's in-built sentiment analysis engine
+- [Deep-Learning for Natural Language Processing](https://github.com/yazeze2/Deep-Learning) - Convolutional Neural Networks (CNN) and Multi-layer perceptron (MLP) Models for twitter sentiment analysis - without using NLTK's built-in sentiment analysis engine
 - [Supervised Learning: SVM, Decision Tree & AdaBoost - Finding Donors for CharityML](https://github.com/yazeze2/Finding-Donors-for-CharityML) - In this project, the performance of the various supervised algorithms are tested to accurately model an individuals' income using the data collected from the 1994 U.S. Census
 - [Time Series Analysis - Predict Traffic on a New Mode of Transport](https://github.com/yazeze2/Time-Series) - In this project, the Holt's Linear Trend Model, Holt Winter's Model, ARIMA Model, and SARIMA Model are implemented and contrasted to predict traffic.
 - [Natural Language Processing](https://github.com/yazeze2/Twitter-Sentiment-Analysis) - Sentiment Analysis on Tweets using Supervised Learning Algorithms (without using NLTK's built-in sentiment analysis engine)
