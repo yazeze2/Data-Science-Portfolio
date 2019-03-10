@@ -11,9 +11,9 @@ Data Science Projects completed by me for self learning, and hobby purposes.
 - [Time Series Analysis - Predict Traffic on a New Mode of Transport](https://github.com/yazeze2/Time-Series) - In this project, the Holt's Linear Trend Model, Holt Winter's Model, ARIMA Model, and SARIMA Model are implemented and contrasted to predict traffic.
 - [Natural Language Processing](https://github.com/yazeze2/Twitter-Sentiment-Analysis) - Sentiment Analysis on Tweets using Supervised Learning Algorithms (without using NLTK's built-in sentiment analysis engine)
 - [Unsupervised Learning: Gaussian Mixture Model - Customer Segmentation](https://github.com/yazeze2/Customer-Segmentation) - In this project I analyzed a wholesale customers dataset containing data on various customers' annual spending amounts (reported in monetary units) in diverse product categories for customer segmentation
-- [Text Mining](https://github.com/yazeze2/Text_Mining) - In this project, twitter scraping is performed to gather data and performed tweet Sentiment Analysis, using Naive Bayes Classifier, and Topic Modelling, using Latent Dirichlet Allocation (LDA).
+- [Text Mining](https://github.com/yazeze2/Text_Mining) - In this project, twitter scraping is performed to gather data and tweet Sentiment Analysis is implemented using Naive Bayes Classifier. Moreover, Topic Modelling is implemented using Latent Dirichlet Allocation (LDA).
 - [Object Tracking in video Using Kalman Filter](https://github.com/yazeze2/Object-Tracking-Using-Kalman-Filter) - Object Detection and Tracking using Kalman Filter
-- [911 Call Exploratory Analysis](https://github.com/yazeze2/911-Exploratory-Analysis-Project) - This project is implemented to demonstrate extraction of useful features from different variables
+- [911 Call Exploratory Analysis](https://github.com/yazeze2/911-Exploratory-Analysis-Project) - This project is strictly completed to implement Exploratory Analysis on 911 call dataset. It is done to demonstrate the extraction of meaningful features by playing with the different variables in the dataset.
 
 ## Mini Data Science Projects
 
