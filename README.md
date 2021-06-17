@@ -1,6 +1,6 @@
 # Data-Science-Portfolio
 
-Data Science Projects completed by me for self learning, and hobby purposes.
+Data Science Projects for self-learning and hobby purposes.
 
 # Contents
 
